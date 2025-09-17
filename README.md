@@ -6,6 +6,12 @@ This project implements a fully automated, containerized, and scheduled data eng
 
 This project demonstrates the transformation of a manual data analysis task into a robust, production-ready, and hands-off engineering solution.
 
+## Project Evolution
+
+This project is the automated, production-ready version of an initial exploratory analysis. The original work, which involved manual, standalone SQL queries to derive business insights, can be found in the (RFM Customer Segmentation & Retention Analysis)(https://github.com/itsmeamitesh01/RFM-Customer-Segmentation-Analysis).
+
+This pipeline takes the core logic from that analysis and re-engineers it into a robust, scheduled, and containerized system suitable for a production environment.
+
 ## Technologies Used
 
 - **Cloud:** Google Cloud Platform (GCP)
