@@ -1,4 +1,4 @@
-# Automated RFM Customer Segmentation Pipeline
+# RFM Customer Segmentation Pipeline
 
 ## Overview
 
