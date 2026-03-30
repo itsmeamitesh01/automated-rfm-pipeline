@@ -1,5 +1,4 @@
-# RFM Customer Segmentation Pipeline
-
+# Nexus – Automated RFM Pipeline 
 ## Overview
 
 This project implements a fully automated, containerized, and scheduled data engineering pipeline to perform RFM (Recency, Frequency, Monetary) analysis on e-commerce transaction data. The system automatically ingests raw data from Google BigQuery, processes it through a complex SQL transformation, and saves the final customer segments back to a BigQuery table on a daily schedule.
